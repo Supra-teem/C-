@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574705794 source:c:\users\suprateem\desktop\codes\c++\kmp\main.cpp
+	<iostream>
+	<string.h>
+
